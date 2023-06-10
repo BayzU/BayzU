@@ -34,7 +34,6 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 <br/>
 
 ## GitHub Stats:
-#
 
 <img alt="Bayzed's Github Sreak" src="https://streak-stats.demolab.com?user=BayzU&theme=midnight-purple&card_width=467&hide_border=false"/>
 <img alt="Bayzed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BayzU&show_icons=true&theme=midnight-purple&hide_border=true"/>

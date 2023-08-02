@@ -17,6 +17,13 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 
 ## Languages and Tools
 
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bash,cpp,perl,py,r,react,solidity,ts" />
+  <img src="https://skillicons.dev/icons?i=wasm,angular,d3,electron,express,nextjs,nodejs,nuxtjs,redux,sass,styledcomponents,vite,vue,webpack" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,firebase,git,github,linux,md,bsd,mongodb,mysql,postgres,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,bootstrap,figma,tailwind" />
+  </p>
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

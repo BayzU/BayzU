@@ -4,7 +4,7 @@
 
 As a fellow at Marcy Lab School, I am passionate about creating innovative solutions that can benefit people's lives. With a background in graphic design and an eagerness to learn software engineering, I strive to combine these two fields to produce exceptional products that can bring positive change to the world.
 
-My experience in graphic design has taught me the value of aesthetics and user experience in design, and my software engineering skills are allowing me to turn those concepts into reality. I am constantly honing my skills and staying up-to-date with the latest technologies and trends, so that I can create high-quality products that people will love. In addition to my work, I also have a passion for cooking. When I'm not busy with work, you can often find me experimenting with new recipes in the kitchen.
+My experience in graphic design has taught me the value of aesthetics and user experience in design, and my software engineering skills are allowing me to turn those concepts into reality. I am constantly honing my skills and staying up-to-date with the latest technologies and trends, so that I can create high-quality products that people will love.
 
 I am always looking for new opportunities to collaborate with like-minded individuals, so feel free to reach out to me. Let's create something amazing together!
 
@@ -19,24 +19,11 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 
   <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,bash,py,react,ts" />
-  <img src="https://skillicons.dev/icons?i=express,nodejs,redux,sass,vitek" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,redux,sass" />
   <img src="https://skillicons.dev/icons?i=aws,git,github,postgres" />
   <img src="https://skillicons.dev/icons?i=ai,xd,ps,pr,bootstrap,figma,tailwind" />
   </p>
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="KnexJs" width="30px" style="padding-right:10px;" src="./knexLogo.png" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Adobe XD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-<img align="left" alt="Adobne Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br />
 <br/>
 

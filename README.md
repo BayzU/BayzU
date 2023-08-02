@@ -24,7 +24,6 @@ I am always looking for new opportunities to collaborate with like-minded indivi
   <img src="https://skillicons.dev/icons?i=ai,xd,ps,pr,bootstrap,figma,tailwind" />
   </p>
 
-<br />
 <br/>
 
 ## GitHub Stats:
